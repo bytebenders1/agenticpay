@@ -37,3 +37,6 @@ trend-data.json
 packages/*/dist/
 frontend/src/generated/
 packages/contracts/src/generated/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
